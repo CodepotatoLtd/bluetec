@@ -1,0 +1,22 @@
+<?php
+				$classes = array (
+  0 => 
+  array (
+    'className' => 'DataObjectSet',
+    'extends' => 'ViewableData',
+    'interfaces' => 
+    array (
+      0 => 'IteratorAggregate',
+    ),
+  ),
+  1 => 
+  array (
+    'className' => 'DataObjectSet_Iterator',
+    'interfaces' => 
+    array (
+      0 => 'Iterator',
+    ),
+  ),
+);
+				$interfaces = array (
+);
