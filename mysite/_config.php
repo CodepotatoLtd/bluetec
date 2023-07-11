@@ -7,10 +7,10 @@ $project = 'mysite';
 global $databaseConfig;
 $databaseConfig = array(
 	"type" => "MySQLDatabase",
-	"server" => "10.168.1.61", 
-	"username" => "bluetecc_cms", 
-	"password" => "28jan1987", 
-	"database" => "bluetecc_cms",
+	"server" => "private-db-client-1-do-user-289071-0.b.db.ondigitalocean.com", 
+	"username" => "bluetec", 
+	"password" => "AVNS_VIe7lbPBBEda_kzxCgQ", 
+	"database" => "bluetec",
 );
 
 // Sites running on the following servers will be
